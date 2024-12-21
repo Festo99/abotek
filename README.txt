@@ -1,8 +1,6 @@
-Template Name: Furni
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
+Thanks for downloading this template!
 
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
-Pinterest: https://pinterest.com/Untree_co/
+Template Name: Presento
+Template URL: https://bootstrapmade.com/presento-bootstrap-corporate-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
